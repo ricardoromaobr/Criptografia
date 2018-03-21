@@ -9,3 +9,7 @@ Digital signature ebook exemplos github [veja aqui](https://github.com/itext/i5n
 Segue abaixo abaixo algumas biblioteca.  
 * NCryptoki
   * [Cryptoki web site](www.ncryptoki.com)
+* Projeto que implementa interoperabilidade com PKCS#11
+  * [pKCS11 Interop](https://github.com/Pkcs11Interop)
+* Projeto que implementa interoperabilidade com PKCS#11 PDF
+  * [PKCS11 PDF](https://github.com/jariq/Pkcs11Interop.PDF)
