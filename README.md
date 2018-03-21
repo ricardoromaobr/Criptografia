@@ -6,7 +6,7 @@ A White Paper by Bruno Lowagie (iText Software) [Veja aqui](https://sourceforge.
 Digital signature ebook [veja aqui](https://pages.itextpdf.com/ebook-digital-signatures-for-pdf.html)  
 Digital signature ebook exemplos github [veja aqui](https://github.com/itext/i5ns-tutorial)
 # Bibliotecas PKCS#11
-Segue abaixo abaixo algumas biblioteca.  
+Segue abaixo algumas biblioteca.  
 * NCryptoki
   * [Cryptoki web site](www.ncryptoki.com)
 * Projeto que implementa interoperabilidade com PKCS#11
