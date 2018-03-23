@@ -21,7 +21,7 @@ Segue exemplos de como manipular chaves utilizando openssl, converter chave para
 
 openssl genrsa -out server3.key 1024
 
-#3 extrair a chave publica da chave privada
+## extrair a chave publica da chave privada
  
 openssl rsa -in server3.key -pubout
  
