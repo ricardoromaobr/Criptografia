@@ -34,3 +34,8 @@ openssl x509 -req -days 365 -in server3.csr -signkey server3.key -out server3.cr
 
 ## convert a certificate to pkcs#12 format
 openssl pkcs12 -export -out certpcdf3.pfx -inkey server3.key -in server3.crt
+
+
+# IIS Certification Authentication 
+* Configuração
+  * [Artigo IIS Setting](https://blogs.msdn.microsoft.com/asiatech/2016/08/22/how-to-create-an-iis-website-that-requires-client-certificate-using-self-signed-certificates/)
