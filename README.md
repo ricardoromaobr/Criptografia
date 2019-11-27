@@ -40,6 +40,6 @@ openssl pkcs12 -export -out certpcdf3.pfx -inkey server3.key -in server3.crt
 * Configuração
   * [Artigo IIS Setting](https://blogs.msdn.microsoft.com/asiatech/2016/08/22/how-to-create-an-iis-website-that-requires-client-certificate-using-self-signed-certificates/)
   
-# Vários Post em Segurança e Cripotografia
+# Vários Post em Segurança e Criptografia
 * Lista de posts
   * Posts](https://dotnetcodr.com/security-and-cryptography/)
